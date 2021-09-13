@@ -1,9 +1,9 @@
 # SheHack-shortlisting-Task
 A small webpage containing our vision
 
-This webpage is created as part of a short listing task for shehack by tinkerhub
-This webpage uses html only and uses inernal style tag
-It contains oru mission and vision about Shehacks
+This webpage is created as part of a short listing task for shehack by tinkerhub.
+This webpage uses html only and uses inernal style tag.
+It contains oru mission and vision about Shehacks.
 
 
 LinkedIn Links:
